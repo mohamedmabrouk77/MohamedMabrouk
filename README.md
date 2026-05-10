@@ -1,102 +1,109 @@
 # 👋 Hi, I'm Mohamed Mabrouk
 
 🚀 Full-Stack Software Engineer | .NET Core Developer  
-💻 Passionate about building scalable backend systems  
-🎯 Focused on clean architecture and high-performance APIs  
+💻 Building scalable backend systems & real-time applications  
+🎯 Focused on Clean Architecture, Performance, and Secure APIs  
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🔥 Backend Developer specialized in **ASP.NET Core**
-- 🗄 Experienced with **SQL Server & Entity Framework**
-- 🔐 Working with **JWT Authentication & Role-Based Authorization**
-- 📦 Applying Repository Pattern & Clean Architecture
-- 🌍 Interested in Microservices & Docker
-- 📱 Also experienced in Flutter Development
+- 🗄 Experienced with **SQL Server & Entity Framework Core**
+- 🔐 Strong knowledge of **JWT Authentication & Role-Based Authorization**
+- 📦 Applying **Clean Architecture & Repository Pattern**
+- ⚡ Working with **SignalR & Real-Time Systems**
+- 🐳 Interested in **Microservices & Docker**
+- 📱 Also experienced in **Flutter & Mobile Development**
 
 ---
 
 ## 🛠 Tech Stack
 
+### 💻 Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge)
+
+### 🗄 Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ⚡ Real-Time
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+
+### 🔐 Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role_Based_Authorization-FF6F00?style=for-the-badge)
+
+### 🏗 Architecture
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E1E1E?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1E1E1E?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-1976D2?style=for-the-badge)
+
+### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-🍔 GoBy – Food Delivery Mobile Application (Kotlin & Android)
+### 🍔 GoBy – Food Delivery Mobile App
+Kotlin-based food delivery application with clean UI, cart system, and order management.  
+**Architecture:** MVVM / Clean Architecture  
 
-A modern food delivery application inspired by platforms like Talabat, designed to provide a smooth and intuitive user experience for browsing restaurants, selecting meals, and placing orders.
+---
 
-Key Features:
+### 🎬 TalentArab (TalentCast)
+Full-stack casting & production platform with:
+- Multi-role dashboards  
+- Real-time chat (SignalR)  
+- Video conferencing (Jitsi)  
+- FFmpeg watermarking  
+- JWT Security  
 
-Clean and responsive UI with smooth navigation.
-Restaurant browsing by categories with detailed menus.
-Full cart management (add, update, remove) with dynamic total calculation.
-Order placement with simulated real-world processing.
+**Backend:** ASP.NET Core Web API  
+**Database:** SQL Server  
 
-Technical Stack:
+---
 
-Mobile: Kotlin, XML, RecyclerView
-Architecture: MVVM / Clean Architecture
-Integrations: REST APIs, Firebase Authentication/Firestore, Payment Gateway, Location Services
-🎬 TalentArab (TalentCast) – Full-Stack Casting & Production Management Platform
+### 🛒 Tradcod – Real-Time B2B Marketplace
+Live auction system with:
+- Anti-sniping bidding engine  
+- Supplier verification workflow  
+- RBAC Security  
+- Real-time updates (SignalR)  
 
-A comprehensive digital platform connecting actors, casting directors, film directors, and producers, managing the workflow from talent discovery to contract finalization.
-
-Key Features:
-
-Multi-role dashboards (Talent, Casting Agency, Director, Producer, Admin).
-Dynamic talent portfolios (headshots, reels, engagement features).
-Trello-style casting board for nominations and reviews.
-Automated video watermarking using FFmpeg.
-Real-time chat using SignalR.
-Video conferencing via Jitsi Meet.
-Advanced talent filtering system.
-Financial and document management modules.
-
-Technical Stack:
-
-Backend: ASP.NET Core Web API, Entity Framework Core, SQL Server
-Frontend: HTML5, Tailwind CSS, JavaScript (ES6), Axios
-Real-time: SignalR (WebSockets)
-Security: JWT Authentication, Role-Based Authorization
-Tools: FFmpeg, SweetAlert2
-🛒 Tradcod – Real-time B2B Agricultural Marketplace & Auction System
-
-A scalable platform connecting international importers with verified Egyptian suppliers, supporting real-time auctions and logistics tracking.
-
-Key Features:
-
-Live bidding engine with anti-sniping logic.
-Multi-role dashboards (Admin, Supplier, Importer).
-Secure JWT authentication with RBAC.
-Supplier verification and document approval workflow.
-Full order lifecycle and logistics tracking.
-
-Technical Stack:
-
-Backend: ASP.NET Core Web API, Entity Framework Core, SQL Server
-Frontend: HTML5, CSS3, Bootstrap, jQuery, SignalR Client
-Architecture: Clean Architecture, Repository Pattern
+**Architecture:** Clean Architecture + Repository Pattern  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmabrouk77&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmabrouk77&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 Email: medoghnam1@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com ](https://www.linkedin.com/in/mohammed-mabrouk-99582328a/) 
+🔗 LinkedIn: https://www.linkedin.com/in/mohammed-mabrouk-99582328a/
